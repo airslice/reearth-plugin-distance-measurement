@@ -18,4 +18,3 @@ extensions:
               type: string
               title: Line Color
               ui: color
-
